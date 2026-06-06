@@ -84,4 +84,3 @@ You can add:
 - widgets  
 - improvements to the window manager
 
-
