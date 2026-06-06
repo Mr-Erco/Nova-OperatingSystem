@@ -82,4 +82,6 @@ You can add:
 - new apps  
 - themes  
 - widgets  
-- improvements to the window manager  
+- improvements to the window manager
+
+
